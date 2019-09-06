@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887215559800",
+    "firebase_url": "https://akk-app-59880.firebaseio.com",
+    "project_id": "akk-app-59880",
+    "storage_bucket": "akk-app-59880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887215559800:android:41ad0e4f49e30aeaa8c98d",
+        "android_client_info": {
+          "package_name": "com.akk.akk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887215559800-93q3dqh0odgeub0dumbvgomhrmk6mnoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtReikvZhvRLHwuFNVqZgXSyRTYC1VCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887215559800-93q3dqh0odgeub0dumbvgomhrmk6mnoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
